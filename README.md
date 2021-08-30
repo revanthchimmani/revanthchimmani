@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain & Cryptocurrency**
 
-- 👨‍💻 All of my projects are available at [https://revanthchimmani.github.io](https://revanthchimmani.github.io)
+- 👨‍💻 Know more about me at [https://revanthchimmani.github.io](https://revanthchimmani.github.io)
 
 - 💬 Ask me about **anything**
 
