@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Revanth Chimmani</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India -> United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthchimmani&label=Profile%20views&color=0e75b6&style=flat" alt="revanthchimmani" /> </p>
 
-- 🌱 I’m currently learning **Blockchain & Cryptocurrency**
+<!-- - 🌱 I’m currently learning **Blockchain & Cryptocurrency** -->
+- 🌱 I’m currently pursuing **Masters in Computer Science** from **Arizona State University**
 
 - 👨‍💻 Know more about me at [https://revanthchimmani.github.io](https://revanthchimmani.github.io)
 
