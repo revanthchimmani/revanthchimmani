@@ -8,7 +8,7 @@
 
 - 👨‍💻 Know more about me at [https://revanthchimmani.github.io](https://revanthchimmani.github.io)
 
-- 💬 Ask me about **Tech**
+- 💬 we can discuss about latest **Tech**
 
 - 📫 How to reach me **revanthchimmani[at]gmail[dot]com**
 
